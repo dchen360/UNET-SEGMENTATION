@@ -23,6 +23,8 @@ CODEX, or co-detection by indexing, is an imaging approach that allows visualiza
 ## U-Net Structure
 ![image](https://user-images.githubusercontent.com/91340560/232603237-adc0a1a3-8f2e-4747-ad78-ee6a49205c08.png)
 
+## Method
+![image](https://user-images.githubusercontent.com/91340560/232603368-b1fb3071-63d4-4fa1-a67b-300e6e7ad33b.png)
 
 ## Overview and Results
 Hypothesis: We can extrapolate the distribution of non-imaged proteins using existing CODEX imaging data.
