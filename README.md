@@ -37,6 +37,10 @@ Impact: Researcher can save time and money by generating synthetic reconstructio
 ## Discussion
 ![image](https://user-images.githubusercontent.com/91340560/232604493-a343fa88-d476-4835-906f-694850c36aa5.png)
 
+## References
+[1] Schürch, C. M., Bhate, S. S., Barlow, G. L., Phillips, D. J., Noti, L., Zlobec, I., Chu, P., Black, S., Demeter, J., McIlwain, D. R., Kinoshita, S., Samusik, N., Goltsev, Y., & Nolan, G. P. (2020). Coordinated Cellular Neighborhoods Orchestrate Antitumoral Immunity at the Colorectal Cancer Invasive Front. Cell, 182(5), 1341-1359.e19. https://doi.org/10.1016/j.cell.2020.07.005
+[2] PhenoCycler - Akoya. (2021, December 8). Akoya - the Spatial Biology Company. https://www.akoyabio.com/phenocycler/
+[3] milesial. (2022, February 19). Pytorch-UNet/unet at master · milesial/Pytorch-UNet. GitHub. https://github.com/milesial/Pytorch-UNet/tree/master/unet
 
 
 
