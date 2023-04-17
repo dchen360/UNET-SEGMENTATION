@@ -12,6 +12,9 @@ CODEX, or co-detection by indexing, is an imaging approach that allows visualiza
     - Of 60+ protein signals
     - In multiple cycles
     - 1 protein → 1 channel!
+ 
 ![image](https://user-images.githubusercontent.com/91340560/232601494-6c1a4893-cb36-4d6f-b916-953a9f2f9724.png)
+![image](https://user-images.githubusercontent.com/91340560/232601599-342aa0b0-4489-43f0-9d15-156618596f41.png)
+
 
 
