@@ -35,7 +35,8 @@ Impact: Researcher can save time and money by generating synthetic reconstructio
 ![image](https://user-images.githubusercontent.com/91340560/232604390-9a03aec5-5099-4c98-8dbe-eec40b0dc7e5.png)
 
 ## Discussion
-![image](https://user-images.githubusercontent.com/91340560/232604493-a343fa88-d476-4835-906f-694850c36aa5.png)
+![image](https://user-images.githubusercontent.com/91340560/232604895-2a92b8d9-cc07-4beb-8c28-a41a2bf96de2.png)
+
 
 ## References
 [1] Schürch, C. M., Bhate, S. S., Barlow, G. L., Phillips, D. J., Noti, L., Zlobec, I., Chu, P., Black, S., Demeter, J., McIlwain, D. R., Kinoshita, S., Samusik, N., Goltsev, Y., & Nolan, G. P. (2020). Coordinated Cellular Neighborhoods Orchestrate Antitumoral Immunity at the Colorectal Cancer Invasive Front. Cell, 182(5), 1341-1359.e19. https://doi.org/10.1016/j.cell.2020.07.005
